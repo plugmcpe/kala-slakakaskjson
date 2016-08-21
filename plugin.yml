@@ -1,6 +1,11 @@
 ---
-name:heal
+name:Heal
 author:aboode
-main:healplugin\main
+main:healplugin/main
 version: 1.0
 api: 2.0.0
+
+Commands:
+  heal:
+      
+       discription: heal your health
